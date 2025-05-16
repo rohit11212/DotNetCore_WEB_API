@@ -1,10 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Rohit\\source\\repos\\MyBooks\\",
+  "WorkspaceRootPath": "C:\\My Git Repos\\DotCoreWebApi\\MyBooks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B25A0151-A095-4A6B-B463-A3DECEAE0B05}|MyBooks\\MyBooks.csproj|c:\\users\\rohit\\source\\repos\\mybooks\\mybooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B25A0151-A095-4A6B-B463-A3DECEAE0B05}|MyBooks\\MyBooks.csproj|c:\\my git repos\\dotcorewebapi\\mybooks\\mybooks\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25A0151-A095-4A6B-B463-A3DECEAE0B05}|MyBooks\\MyBooks.csproj|solutionrelative:mybooks\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B25A0151-A095-4A6B-B463-A3DECEAE0B05}|MyBooks\\MyBooks.csproj|c:\\my git repos\\dotcorewebapi\\mybooks\\mybooks\\data\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25A0151-A095-4A6B-B463-A3DECEAE0B05}|MyBooks\\MyBooks.csproj|solutionrelative:mybooks\\data\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B25A0151-A095-4A6B-B463-A3DECEAE0B05}|MyBooks\\MyBooks.csproj|c:\\my git repos\\dotcorewebapi\\mybooks\\mybooks\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25A0151-A095-4A6B-B463-A3DECEAE0B05}|MyBooks\\MyBooks.csproj|solutionrelative:mybooks\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B25A0151-A095-4A6B-B463-A3DECEAE0B05}|MyBooks\\MyBooks.csproj|c:\\my git repos\\dotcorewebapi\\mybooks\\mybooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B25A0151-A095-4A6B-B463-A3DECEAE0B05}|MyBooks\\MyBooks.csproj|solutionrelative:mybooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B25A0151-A095-4A6B-B463-A3DECEAE0B05}|MyBooks\\MyBooks.csproj|c:\\my git repos\\dotcorewebapi\\mybooks\\mybooks\\data\\viewmodel\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25A0151-A095-4A6B-B463-A3DECEAE0B05}|MyBooks\\MyBooks.csproj|solutionrelative:mybooks\\data\\viewmodel\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B25A0151-A095-4A6B-B463-A3DECEAE0B05}|MyBooks\\MyBooks.csproj|c:\\my git repos\\dotcorewebapi\\mybooks\\mybooks\\data\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25A0151-A095-4A6B-B463-A3DECEAE0B05}|MyBooks\\MyBooks.csproj|solutionrelative:mybooks\\data\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B25A0151-A095-4A6B-B463-A3DECEAE0B05}|MyBooks\\MyBooks.csproj|c:\\my git repos\\dotcorewebapi\\mybooks\\mybooks\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25A0151-A095-4A6B-B463-A3DECEAE0B05}|MyBooks\\MyBooks.csproj|solutionrelative:mybooks\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +38,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\My Git Repos\\DotCoreWebApi\\MyBooks\\MyBooks\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "MyBooks\\WeatherForecast.cs",
+              "ToolTip": "C:\\My Git Repos\\DotCoreWebApi\\MyBooks\\MyBooks\\WeatherForecast.cs",
+              "RelativeToolTip": "MyBooks\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:12:43.049Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookVM.cs",
+              "DocumentMoniker": "C:\\My Git Repos\\DotCoreWebApi\\MyBooks\\MyBooks\\Data\\ViewModel\\BookVM.cs",
+              "RelativeDocumentMoniker": "MyBooks\\Data\\ViewModel\\BookVM.cs",
+              "ToolTip": "C:\\My Git Repos\\DotCoreWebApi\\MyBooks\\MyBooks\\Data\\ViewModel\\BookVM.cs",
+              "RelativeToolTip": "MyBooks\\Data\\ViewModel\\BookVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T20:27:08.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\My Git Repos\\DotCoreWebApi\\MyBooks\\MyBooks\\Data\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "MyBooks\\Data\\Services\\BookService.cs",
+              "ToolTip": "C:\\My Git Repos\\DotCoreWebApi\\MyBooks\\MyBooks\\Data\\Services\\BookService.cs",
+              "RelativeToolTip": "MyBooks\\Data\\Services\\BookService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T20:21:42.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\My Git Repos\\DotCoreWebApi\\MyBooks\\MyBooks\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "MyBooks\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\My Git Repos\\DotCoreWebApi\\MyBooks\\MyBooks\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "MyBooks\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwCwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T20:19:16.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\My Git Repos\\DotCoreWebApi\\MyBooks\\MyBooks\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "MyBooks\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\My Git Repos\\DotCoreWebApi\\MyBooks\\MyBooks\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "MyBooks\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:54:15.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\My Git Repos\\DotCoreWebApi\\MyBooks\\MyBooks\\Data\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "MyBooks\\Data\\Model\\Book.cs",
+              "ToolTip": "C:\\My Git Repos\\DotCoreWebApi\\MyBooks\\MyBooks\\Data\\Model\\Book.cs",
+              "RelativeToolTip": "MyBooks\\Data\\Model\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:46:07.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Rohit\\source\\repos\\MyBooks\\MyBooks\\Program.cs",
+              "DocumentMoniker": "C:\\My Git Repos\\DotCoreWebApi\\MyBooks\\MyBooks\\Program.cs",
               "RelativeDocumentMoniker": "MyBooks\\Program.cs",
-              "ToolTip": "C:\\Users\\Rohit\\source\\repos\\MyBooks\\MyBooks\\Program.cs",
+              "ToolTip": "C:\\My Git Repos\\DotCoreWebApi\\MyBooks\\MyBooks\\Program.cs",
               "RelativeToolTip": "MyBooks\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T12:01:25.033Z",
               "EditorCaption": ""
